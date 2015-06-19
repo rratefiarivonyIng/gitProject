@@ -16,7 +16,6 @@
 
 package com.example.android.apis;
 
-import android.app.ListActivity;
 import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.content.pm.ResolveInfo;
